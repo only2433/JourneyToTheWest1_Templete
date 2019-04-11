@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "566773640232",
+    "firebase_url": "https://storybook-journeytothewest.firebaseio.com",
+    "project_id": "storybook-journeytothewest",
+    "storage_bucket": "storybook-journeytothewest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566773640232:android:835b25415a7752ca",
+        "android_client_info": {
+          "package_name": "com.littlefox.storybook.journeytothewest1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566773640232-f9c1q0145qprg5ph38qh1ah9fah8ktgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCarVMK9FQOn-JUSU_QzR0tmTKT6xco5DI"
+        },
+        {
+          "current_key": "AIzaSyDkvjuDaCXMY5WieRYBt4ynUd1_PMVXZos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566773640232-f9c1q0145qprg5ph38qh1ah9fah8ktgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
